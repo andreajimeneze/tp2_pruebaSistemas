@@ -1,0 +1,14 @@
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\bin\Debug\net10.0\Tp2.exe
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\bin\Debug\net10.0\Tp2.deps.json
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\bin\Debug\net10.0\Tp2.runtimeconfig.json
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\bin\Debug\net10.0\Tp2.dll
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\bin\Debug\net10.0\Tp2.pdb
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.AssemblyInfoInputs.cache
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.AssemblyInfo.cs
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.csproj.CoreCompileInputs.cache
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.dll
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\refint\Tp2.dll
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.pdb
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.genruntimeconfig.cache
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\ref\Tp2.dll

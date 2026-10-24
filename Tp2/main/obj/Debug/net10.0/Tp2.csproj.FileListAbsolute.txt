@@ -12,3 +12,4 @@ D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp
 D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.pdb
 D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.genruntimeconfig.cache
 D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\ref\Tp2.dll
+D:\TECNICATURA DESARROLLO SOFTWARE\CUATRIMESTRE 3\Prueba de Sistemas\TP 2\Tp2\Tp2\main\obj\Debug\net10.0\Tp2.sourcelink.json

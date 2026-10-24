@@ -27,10 +27,12 @@ public class ProductManagerTest
         Assert.That(product.Name, Is.EqualTo(name));
     }
 
-    [Test]
-    public void AddProductTest()
+    [TestCase("Televisor", 45000.50, EnumCategory.Electronica)]
+    [TestCase("Mouse", 1500, EnumCategory.Electronica)]
+    [TestCase("Notebook", 900000, EnumCategory.Electronica)]
+    public void AddProductTest(string productName, double productPrice, EnumCategory productCategory)
     {
-        Product? product = manager.CreateProduct(name, price, category);
+        Product? product = manager.CreateProduct(productName, (decimal)productPrice, productCategory);
         bool isTrue = manager.AddProduct(product);
 
         Assert.That(isTrue, Is.True);
@@ -69,7 +71,7 @@ public class ProductManagerTest
         Assert.That(totalPrice, Is.EqualTo(148501.65));
     }
 
-        [Test]
+    [Test]
     public void CalculatePriceAlimentosTest()
     {
         name = "Leche";
